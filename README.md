@@ -1,5 +1,4 @@
-# dsalgo-novice
+# Data Structure and Algorithm
 
 ## Algorithms &amp; Data Structures Practice
 
-Easy and Medium Level Problems 
